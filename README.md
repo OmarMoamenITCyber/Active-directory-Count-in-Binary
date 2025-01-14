@@ -24,5 +24,3 @@ Click the binary bits necessary to compute the decimal value on the left column.
 Binary Calculator: <br/>
 <img src="https://imgur.com/5eunve0" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-<br />
-
